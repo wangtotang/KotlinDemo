@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_bnv_picture"
+        android:icon="@drawable/ic_plane"
+        android:title="Pictures"/>
+    <item
+        android:id="@+id/menu_bnv_movie"
+        android:icon="@drawable/ic_rocket"
+        android:title="Movies"/>
+    <item
+        android:id="@+id/menu_bnv_setting"
+        android:icon="@drawable/ic_person"
+        android:title="Settings"/>
+</menu>
